@@ -1,4 +1,4 @@
-# 🐶 Tienda Perritos DevOps
+# Innovatech Chile
 
 Aplicación full stack contenerizada basada en una arquitectura multicapa desplegada sobre AWS EC2 utilizando Docker y Docker Compose.
 
